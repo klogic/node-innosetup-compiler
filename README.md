@@ -1,5 +1,6 @@
-node-innosetup-compiler
+node-innosetup-compiler-V6
 =======================
+This Fork from Origin [node-innosetup-compiler](https://github.com/felicienfrancois/node-innosetup-compiler). Because Origin is not merge Inno Setup V6 into repo. so this one fork for support Inno Setup V6.
 
 Node module to compile inno setup scripts (.iss)
 
